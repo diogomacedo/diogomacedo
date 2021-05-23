@@ -1,6 +1,6 @@
 ### :smiley: Oi Pessoal!
 
-### :hammer_and_wrench: Tecnologias
+### :hammer_and_wrench: Tecnologias / Technologies
 
 [![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&labelColor=E34F26)](https://www.w3.org/html/)
 [![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&labelColor=1572B6)](https://www.w3.org/Style/CSS/)
@@ -18,3 +18,10 @@
 [![PHP badge](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&labelColor=777BB4)](https://www.php.net/)
 
 [![Docker badge](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&labelColor=2496ED)](https://www.docker.com/)
+
+### :mailbox_with_mail: Quer falar comigo? / would you like to keep in touch?
+
+[![Website Badge](https://img.shields.io/badge/Blog-diogomacedo.com.br-black)](http://diogomacedo.com.br/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eudiogomacedo)
+[![Email Badge](https://img.shields.io/badge/Email-diogobr@gmail.com-black?logo=gmail)](http://mailto:diogobr@gmail.com/)
+[![Email Badge](https://img.shields.io/badge/Email-contato@diogomacedo.com.br-black)](http://mailto:contato@diogomacedo.com.br/)
