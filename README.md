@@ -1,4 +1,4 @@
-### :smiley: Oi Pessoal!
+### :smiley: Oi Pessoal! / Hi Guys!
 
 ### :hammer_and_wrench: Tecnologias / Technologies
 
