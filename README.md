@@ -25,5 +25,5 @@
 
 [![Website Badge](https://img.shields.io/badge/Blog-diogomacedo.com.br-black)](http://diogomacedo.com.br/)
 
-[![Email Badge](https://img.shields.io/badge/Email-diogobr@gmail.com-black?logo=gmail)](http://mailto:diogobr@gmail.com/)
-[![Email Badge](https://img.shields.io/badge/Email-contato@diogomacedo.com.br-black)](http://mailto:contato@diogomacedo.com.br/)
+[![Email Badge](https://img.shields.io/badge/Email-diogobr@gmail.com-black?logo=gmail)](mailto:diogobr@gmail.com)
+[![Email Badge](https://img.shields.io/badge/Email-contato@diogomacedo.com.br-black)](mailto:contato@diogomacedo.com.br)
