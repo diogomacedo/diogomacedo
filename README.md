@@ -52,5 +52,5 @@
 [![Email Badge](https://img.shields.io/badge/Email-diogobr@gmail.com-black?logo=gmail)](mailto:diogobr@gmail.com)
 [![Email Badge](https://img.shields.io/badge/Email-contato@diogomacedo.com.br-black)](mailto:contato@diogomacedo.com.br)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogomacedo&layout=compact&custom_title=Linguagens%20mais%20utilizadas)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogomacedo&layout=compact&theme=dracula&custom_title=Linguagens%20mais%20utilizadas)](https://github.com/anuraghazra/github-readme-stats)
 
