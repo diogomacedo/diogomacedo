@@ -1,5 +1,7 @@
 ### :smiley: Oi Pessoal! / Hi Guys!
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogomacedo&layout=compact&theme=dracula&custom_title=Linguagens%20mais%20utilizadas)](https://github.com/anuraghazra/github-readme-stats)
+
 ### :hammer_and_wrench: Tecnologias / Technologies
 
 [![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&labelColor=E34F26)](https://www.w3.org/html/)
@@ -51,7 +53,3 @@
 
 [![Email Badge](https://img.shields.io/badge/Email-diogobr@gmail.com-black?logo=gmail)](mailto:diogobr@gmail.com)
 [![Email Badge](https://img.shields.io/badge/Email-contato@diogomacedo.com.br-black)](mailto:contato@diogomacedo.com.br)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogomacedo&layout=compact&theme=dracula&custom_title=Linguagens%20mais%20utilizadas)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=diogomacedo&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
