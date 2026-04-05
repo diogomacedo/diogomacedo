@@ -43,5 +43,6 @@ In my free time I enjoy:
 [![Email Badge](https://img.shields.io/badge/Email-contato@diogomacedo.com.br-black)](mailto:contato@diogomacedo.com.br)
 
 
-![Diogo's GitHub stats](https://github-readme-stats.vercel.app/api?username=diogomacedo)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=diogomacedo)](https://github.com/diogomacedo/github-readme-stats)
+
 
