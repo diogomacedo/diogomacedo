@@ -45,6 +45,3 @@ In my free time I enjoy:
 
 ![Diogo's GitHub stats](https://github-readme-stats.vercel.app/api?username=diogomacedo)
 
-[![Diogo's GitHub stats](https://github-readme-stats.vercel.app/api?username=diogomacedo)](https://github.com/anuraghazra/github-readme-stats)
-
-
