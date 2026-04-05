@@ -42,7 +42,11 @@ In my free time I enjoy:
 
 [![Email Badge](https://img.shields.io/badge/Email-contato@diogomacedo.com.br-black)](mailto:contato@diogomacedo.com.br)
 
+#### 📊 GitHub Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=diogomacedo)](https://github.com/diogomacedo/github-readme-stats)
-
-
+<a href="https://github.com/diogomacedo/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-rouge-phi-60.vercel.app/api?username=diogomacedo" />
+</a>
+<a href="https://github.com/diogomacedo">
+  <img height=200 align="center" src="https://github-readme-stats-rouge-phi-60.vercel.app/api/top-langs?username=diogomacedo&layout=compact&langs_count=8&card_width=320" />
+</a>
